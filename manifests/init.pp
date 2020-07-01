@@ -3,5 +3,5 @@
 #
 class simplest {
   notify { "Bonjour!!!!!!!!!": }
-  notify { "Hello!": }
+  notify { "Hello!!!": }
 }
